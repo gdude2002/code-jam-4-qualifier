@@ -1,4 +1,13 @@
 # Code Jam 4 Qualifier - The Rocketship Control Panel!
+
+I decided to do this in PySide2, to show exactly how it's meant to be used.
+
+You can run this with `python -m rocket_loader`, assuming you have PySide2 installed.
+
+The original task text is below:
+
+---
+
 In order to qualify for this code jam, you'll be building a rocketship control panel
 based on the code in the file `qualifier.py`.
 
