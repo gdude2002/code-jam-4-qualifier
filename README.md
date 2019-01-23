@@ -2,7 +2,7 @@
 
 I decided to do this in PySide2, to show exactly how it's meant to be used.
 
-You can run this with `python -m rocket_loader`, assuming you have PySide2 installed.
+You can run this with `python -m rocket_launch`, assuming you have PySide2 installed.
 
 The original task text is below:
 
